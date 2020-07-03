@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      {/* <Navbar siteTitle={data.site.siteMetadata.title} /> */}
+      {/* <Navbar /> */}
 
       <main>{children}</main>
       <footer class="w-full">

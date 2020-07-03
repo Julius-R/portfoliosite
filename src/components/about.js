@@ -3,7 +3,7 @@ import img from "../images/undraw_web_developer_p3e5.svg"
 
 export default function About() {
   return (
-    <section class="flex items-center">
+    <section id="about" class="flex items-center">
       <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
           <img

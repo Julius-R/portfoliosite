@@ -3,20 +3,20 @@ import React from "react"
 export default function Skills() {
   const skills = [
     "HTML5",
-    "PUG/Jade",
     "CSS3",
-    "SASS",
-    "TailwindCss",
-    "Vanilla JS",
+    "JavaScript",
+    "PUG/Jade",
     "ES6",
     "React",
     "Redux",
     "Gatsby",
+    "SASS",
+    "TailwindCss",
     "Adobe XD",
   ]
   return (
     <section id="skills" class="w-full">
-      <div class="container flex flex-wrap px-5 py-16 mx-auto items-center">
+      <div class="container flex flex-wrap px-5 py-20 mx-auto items-center">
         <div class="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 mb-10 md:mb-0 pb-10 border-b border-gray-300">
           <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2">
             Do you even code, bro?
