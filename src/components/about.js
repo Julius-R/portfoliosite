@@ -19,10 +19,11 @@ export default function About() {
             My name is Julius
           </h1>
           <p class="mb-8 leading-relaxed">
-            I am a Dallas, Tx based web developer who loves making awesome
-            websites! I'm an undergrad with a Bachelors in IT. While studying, I
-            discovered my love of coding. From there, the rest is history. If
-            you need a website, or a new team member, let's get in touch!
+            I am a web developer based on Dallas, Texas. I am currently an
+            undergraduate with a Bachelors in Information Technology. During my
+            studies, I discovered my love of coding and the sheer joy of seeing
+            my ideas come to life! If you need a web development job done, or a
+            new team member, let's get in touch!
           </p>
         </div>
       </div>
