@@ -9,7 +9,7 @@ export default function jumbotron() {
           Frontend Developer
         </p>
         <p className="text-lg md:text-2xl">
-          React / Gatbsy / Sass / Pug / Javascript
+          React / Gatsby / Sass / Pug / Javascript
         </p>
       </div>
     </header>
