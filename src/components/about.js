@@ -19,7 +19,7 @@ export default function About() {
             My name is Julius
           </h1>
           <p class="mb-8 leading-relaxed">
-            I am a web developer based on Dallas, Texas. I am currently an
+            I am a web developer based in Dallas, Texas. I am currently an
             undergraduate with a Bachelors in Information Technology. During my
             studies, I discovered my love of coding and the sheer joy of seeing
             my ideas come to life! If you need a web development job done, or a
